@@ -1,3 +1,5 @@
+#NOTE: I almost never use python so ignore the bugs/disorganization/bad ethics :)
+
 import os
 import tkinter as tk
 from pyxelate import Pyxelate
