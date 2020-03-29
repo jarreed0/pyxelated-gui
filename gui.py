@@ -1,3 +1,5 @@
+#! /usr/bin/python3.7
+
 #NOTE: I almost never use python so ignore the bugs/disorganization/bad ethics :)
 
 import os
